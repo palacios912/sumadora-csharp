@@ -1,0 +1,10 @@
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\bin\Debug\gestorComercial.exe.config
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\bin\Debug\gestorComercial.exe
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\bin\Debug\gestorComercial.pdb
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\obj\Debug\gestorComercial.csproj.AssemblyReference.cache
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\obj\Debug\gestorComercial.Form1.resources
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\obj\Debug\gestorComercial.Properties.Resources.resources
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\obj\Debug\gestorComercial.csproj.GenerateResource.cache
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\obj\Debug\gestorComercial.csproj.CoreCompileInputs.cache
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\obj\Debug\gestorComercial.exe
+C:\Users\lucaspalacios\source\repos\gestorComercial\gestorComercial\obj\Debug\gestorComercial.pdb
